@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://pics.upenn.edu/'>Penn Institute for Computational Sciense, University of Pennsylvania</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: george_kissas.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 518</p>
+    <p>3401 Walnut Street</p>
+    <p>Philadelphia, PA 19143</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
