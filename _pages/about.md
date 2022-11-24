@@ -11,17 +11,14 @@ profile:
   address: >
     <p>Office 518</p>
     <p>3401 Walnut Street</p>
-    <p>Philadelphia, PA 19143</p>
+    <p>Philadelphia, PA 19104</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is george the george
+I am a fifth year doctoral candidate in the department of [Mechanical Engineering and Applied Mechanics](https://www.me.upenn.edu/) at the University of Pennsylvania supervised by [Dr. Paris Perdikaris](https://scholar.google.com/citations?user=h_zkt1oAAAAJ&hl=en). I am also affiliated with [Penn Institute of Computational Sciense (PICS)](https://pics.upenn.edu/). Before coming to Penn I worked with [Dr. Doros Theodorou](http://comse.chemeng.ntua.gr/dntpage.html) at the [National Technical University of Athens](https://www.ntua.gr/en/) on the computational study Self-Consistent Field Theory for polymer interfaces.
 
-. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work focuses on precision medicine and more specifically in synthesizing Artificial Intelligence (AI), Computational Fluid Dynamics (CFD) and medical imaging (US/MRI) techniques to provide trustworthy predictions for early diagnosis of diseases with no strong genetic predisposition, like Hypertensive Pregnancy Disorders. I have developed both data-driven and physics informed machine learning methods for this purpose. My latest focus is on combining operator learning with CFD for predicting disease indicators for individual patients in a real-time clinical setting. 
